@@ -1,9 +1,9 @@
 ---
-title: "Benchmarking Covariate-Adjustment Strategies for Randomized Clinical Trials"
+title: "How should covariates be handled in randomized trials? Empirical evidence from 50 trials and recommendations for practice"
 
 authors:
   - me
-  - Liangyuan Lyu
+  - Liangbo Lyu
   - Menggang Yu
   - Bingkai Wang
 
